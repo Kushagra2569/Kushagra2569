@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushagra2569
 - 👀 I’m interested in creating applications and services.
-- 🌱 I’m currently learning ReactJs and Rust
+- 🌱 I’m currently learning Go and Rust
 - 📫 How to reach me https://www.linkedin.com/in/kushagra2569/
 
 <!---
